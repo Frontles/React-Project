@@ -1,0 +1,25 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "name": "The Flash 1",
+      "rating": 8.3,
+      "overview": "This is a wider card with supporting  text below as a natural lead-in to additional content.",
+      "imageURL": "https://image.tmdb.org/t/p/w220_and_h330_face/wHa6KOJAoNTFLFtp7wguUJKSnju.jpg"
+    },
+    {
+      "id": 2,
+      "name": "The Flash 2",
+      "rating": 8.3,
+      "overview": "This is a wider card with supporting  text below as a natural lead-in to additional content.",
+      "imageURL": "https://image.tmdb.org/t/p/w220_and_h330_face/wHa6KOJAoNTFLFtp7wguUJKSnju.jpg"
+    },
+    {
+      "name": "maminin resmi",
+      "rating": "3",
+      "imageURL": "https://www.klasiksanatlar.com/img/sayfalar/b/1_1598452306_resim.png",
+      "overview": "merhaba bu bir açıklama merhaba bu bir açıklama merhaba bu bir açıklama merhaba bu bir açıklama merhaba bu bir açıklama merhaba bu bir açıklama merhaba bu bir açıklama merhaba bu bir açıklama merhaba bu bir açıklama merhaba bu bir açıklama merhaba bu bir açıklama merhaba bu bir açıklama merhaba bu bir açıklama merhaba bu bir açıklama ",
+      "id": 3
+    }
+  ]
+}
